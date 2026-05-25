@@ -97,8 +97,8 @@ Responsive portfolio showcasing projects, skills, and UI design.
 
 **Tech:** React, Tailwind CSS, JavaScript
 
-🔗 Live Demo: YOUR-LINK
-🔗 Repository: YOUR-LINK
+🔗 Live Demo: portfolio-henna-iota-16.vercel.app
+🔗 Repository: portfolio-henna-iota-16.vercel.app
 
 ---
 
